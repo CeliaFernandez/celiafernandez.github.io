@@ -1,11 +1,11 @@
 <div style="background-color: #1F201E; padding: 10px; display: flex; align-items: center; justify-content: space-between;">
   <nav style="display: flex; gap: 10px;">
-    <a href="index.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Home</a>
-    <a href="cv.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">CV</a>
-    <a href="research.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Research</a>
-    <a href="publications.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Publications</a>
-    <a href="talks.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Talks</a>
-    <a href="contact.html" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Contact</a>
+    <a href="index.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Home</a>
+    <a href="cv.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">CV</a>
+    <a href="research.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Research</a>
+    <a href="publications.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Publications</a>
+    <a href="talks.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Talks</a>
+    <a href="contact.md" style="text-decoration: none; color: white; background-color: #535C5B; padding: 10px 15px; border-radius: 5px; text-align: center; font-weight: bold; display: inline-block;">Contact</a>
   </nav>
 </div>
 
