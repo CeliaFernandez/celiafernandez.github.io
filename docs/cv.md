@@ -1,3 +1,8 @@
+---
+layout: default
+title: Curriculum Vitae
+---
+
 # Working experience
 
 - **Postdoctoral researcher** - Boston University (July 2023 - Present, Boston)
